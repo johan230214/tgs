@@ -1,0 +1,91 @@
+\documentclass[titlepage,12pt,a4paper]{article}
+	\usepackage[utf8]{inputenc}
+	\usepackage{pdfpages}
+	\usepackage[spanish]{babel}
+	\usepackage{ragged2e}
+	\usepackage{graphicx}
+	\usepackage[margin=2.54cm]{geometry}
+	\usepackage[onehalfspacing]{setspace}	
+	
+	
+	\begin{titlepage}
+	
+	
+	\title{\textbf{¿COMO CREAR UNA CUENTA EN OVERLEAF Y EN GITHUB?}}
+	
+	\author{JOHAN STIVEN SALAZAR CUBILLOS \ \\  ITC -  JOHANSTIVENSALAZAR@GMAIL.COM\\\ Report 1 }
+	\date{\today}
+	
+	\begin{document}
+	\maketitle
+	
+	
+	
+	
+	\section{Resumen}
+	En el siguiente informe se explica cómo crear un cuenta en overleaf y en gitgub con imágenes paso a paso.
+
+	
+	
+	\section{Objetivos}
+	 \begin{itemize}
+	    \item {\it Abrir una cuenta en  GitHub y Overleaf}
+	    \item {\it  Paso a paso de la creación de las cuentas } 
+	    \item {\it Dar conclusiones de dicha creación de cuentas } 
+	 \end{itemize}
+
+	\section{Descripción del reporte}
+	  \subsection{Crear una cuenta de GitHub}
+	   \subsubsection{Paso 1} 
+	Buscar en el navegador GitHub.com y dar enter y el navegador lo dirigirá a la página principal 
+	
+	
+	    \centering
+	\includegraphics[scale=0.25]{inicio gitguh.png}
+	  
+	
+	\subsubsection{Paso 2}
+	diríjase a la parte superior derecha de la página y dele clic donde dice Sing up y diligencie los campos que pide la página al finalizar dar click en crate account.
+	
+	    \centering
+	    \includegraphics[scale=0.25]{registro github.png}
+	
+	\subsubsection{Paso 3}
+	Después tiene que verificar su correo electrónico para usar su cuenta dándole click en go to your personal perfile (ve a tu perfil persona) que se ecuentra en la parte superion izquierda para explorar libremente tu perfil.
+	
+	    \centering
+	    \includegraphics[scale=0.25]{verificar correo.png}
+	  
+	    \includegraphics[scale=0.25]{perfil githup.png}
+\subsection{Crear una cuenta overleaf}
+	Buscar en el navegador overleaf.com y dar enter y el navegador lo dirigirá a la página principal.
+	
+	
+	    \includegraphics[scale=0.25]{inicio overleaf.png}
+
+	\subsubsection{Paso 2}
+	Diríjase a la parte superior derecha de la página y dele clic donde dice register y diligencie los campos que pide la página al finalizar dar click en register using your email o también puede crear su cuenta dándole click en register unsing google u orcid.
+	
+	
+	    \centering
+	    \includegraphics[scale=0.25]{registro overleaf.png}
+
+
+
+
+	\subsubsection{Paso 3}
+	Al llenar los campos o escoger algunos de las obsiones de registro la plataforma lo enviara a su inicio y podrá empezar a crear sus proyectos
+	
+	    \centering
+	    \includegraphics[scale=0.25]{principal overleaf.png}
+	\section{Conclusiones}
+	\begin{itemize}
+	\item {\it En conclusión vemos que no es muy difícil de crear una cuenta en github ni en overlaef al contrario es supremamente fácil ya que la misma página también va dando el paso a paso} 
+	
+	\end{itemize}
+	\section{Bibliografía}
+	\begin{itemize}
+	\item Referencias
+	\item GitHub. (s.f.). Obtenido de https://github.com/
+	\item Overleaf. (s.f.). Obtenido de https://es.overleaf.com/
+	\end{itemize}
